@@ -35,7 +35,8 @@ def sto(sample_id):
 def main(input_dirpath):
     for fpath in Path(input_dirpath).iterdir():
         basename = os.path.splitext(fpath.name)[0]
-        attributes = sto(basename)
+        biosamples_id, n = basename.split("_")
+        attributes = sto(biosamples_id)
         print(attributes)
 
 

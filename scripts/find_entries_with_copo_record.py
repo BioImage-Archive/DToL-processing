@@ -51,6 +51,19 @@ def main(nhm_study_pagetab_json_fpath, copo_output_json_fpath):
 
     nhm_ids_in_copo = set(raw_copo["specimen_id"].values())
 
+    indexes = list(raw_copo.values())[0].keys()
+    copo_attrs = raw_copo.keys()
+    sample_dicts = {
+        index: { attr: raw_copo[attr][index] for attr in copo_attrs }
+        for index in indexes
+    }
+
+    nhm_to_biosample_id = {
+        sample_dict['specimen_id'] : sample_dict['biosampleAccession']
+        for sample_dict in sample_dicts.values()
+    }
+
+
     by_nhm_id = defaultdict(list)
     for file in file_list:
         attr_dict = attributes_to_dict(file.attributes)
@@ -60,9 +73,11 @@ def main(nhm_study_pagetab_json_fpath, copo_output_json_fpath):
             by_nhm_id[nhm_id].append(file.path)
     
 
+
     for nhm_id, paths in by_nhm_id.items():
         for n, path in enumerate(sorted(paths), start=1):
-            print(f"cp {path} {nhm_id}_{n}.jpg")
+            biosample_id = nhm_to_biosample_id[nhm_id]
+            print(f"cp {path} {biosample_id}_{n}.jpg")
     
 
 if __name__ == "__main__":

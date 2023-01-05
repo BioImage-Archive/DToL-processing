@@ -27,6 +27,7 @@ class BioSample(BaseModel):
     characteristics: Dict[str, List[Characteristic]]
     relationships: List[Relationship] = []
         
+        
 def get_biosample_record(sample_id):
     request_uri = f"http://www.ebi.ac.uk/biosamples/samples/{sample_id}"
     
