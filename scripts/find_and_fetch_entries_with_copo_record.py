@@ -8,7 +8,7 @@ import click
 import requests
 from pydantic import BaseModel, parse_file_as
 
-from biostudies import load_submission, find_files_in_submission, file_uri, attributes_to_dict
+from biostudies import load_submission, find_files_in_submission, generate_file_uri, attributes_to_dict
 
 
 logger = logging.getLogger(__file__)
@@ -46,29 +46,11 @@ def copy_uri_to_local(src_uri: str, dst_fpath: Path):
             shutil.copyfileobj(r.raw, fh)
 
 
-@click.command()
-@click.argument("copo_output_json_fpath")
-def main(copo_output_json_fpath):
-
-    logging.basicConfig(level=logging.INFO)
-
-    submission = load_submission("S-BIAD588")
-    file_list = find_files_in_submission(submission)
-    nhm_to_biosample_id = get_nhm_id_to_biosample_id_mapping(copo_output_json_fpath)
+def get_file_uris_by_biosamples_id(file_list, nhm_to_biosample_id):
+    """Construct a dictionary that maps BioSamples identifiers to file URIs of sample
+    images associated with that identifier."""
 
     nhm_ids_in_copo = set(nhm_to_biosample_id.keys())
-    print(nhm_ids_in_copo)
-
-    # by_nhm_id = defaultdict(list)
-    # for file in file_list:
-    #     attr_dict = attributes_to_dict(file.attributes)
-    #     nhm_barcode = attr_dict["NHMUK barcode"]
-    #     nhm_id = f"NHMUK{nhm_barcode}"
-    #     if nhm_id in nhm_ids_in_copo:
-    #         uri = file_uri("S-BIAD588", file)
-    #         by_nhm_id[nhm_id].append(uri)
-
-    # print(by_nhm_id)
 
     by_biosamples_id = defaultdict(list)
     for file in file_list:
@@ -77,29 +59,39 @@ def main(copo_output_json_fpath):
         nhm_id = f"NHMUK{nhm_barcode}"
         if nhm_id in nhm_ids_in_copo:
             biosamples_id = nhm_to_biosample_id[nhm_id]
-            uri = file_uri("S-BIAD588", file)
+            uri = generate_file_uri("S-BIAD588", file)
             by_biosamples_id[biosamples_id].append(uri)
 
-    test = list(by_biosamples_id.items())[1]
+    return by_biosamples_id
 
-    output_dirpath = Path("structured_data")
+
+@click.command()
+@click.argument("copo_output_json_fpath")
+@click.argument("output_dirpath")
+def main(copo_output_json_fpath, output_dirpath):
+
+    logging.basicConfig(level=logging.INFO)
+
+    submission = load_submission("S-BIAD588")
+    file_list = find_files_in_submission(submission)
+    nhm_to_biosample_id = get_nhm_id_to_biosample_id_mapping(copo_output_json_fpath)
+
+
+    by_biosamples_id = get_file_uris_by_biosamples_id(file_list, nhm_to_biosample_id)
+
+    records = list(by_biosamples_id.items())[:12]
+
+    output_dirpath = Path(output_dirpath)
     output_dirpath.mkdir(exist_ok=True)
 
-    fname = f"{test[0]}.jpg"
-    uri = test[1][0]
+    for biosamples_id, file_uris in records:
+        # Iterate over all of the images for each sample
+        for n, file_uri in enumerate(file_uris, start=1):
+            fname = f"{biosamples_id}_{n}.jpg"
+            output_fpath = output_dirpath/fname
+            if not output_fpath.exists():
+                copy_uri_to_local(file_uri, output_fpath)
 
-    output_fpath = output_dirpath/fname
-
-    copy_uri_to_local(uri, output_fpath)
-
-    # print(by_nhm_id)    
-
-
-    # for nhm_id, paths in by_nhm_id.items():
-    #     for n, path in enumerate(sorted(paths), start=1):
-    #         biosample_id = nhm_to_biosample_id[nhm_id]
-    #         print(f"cp {path} {biosample_id}_{n}.jpg")
-    
 
 if __name__ == "__main__":
     main()
