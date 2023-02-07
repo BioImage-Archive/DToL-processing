@@ -32,7 +32,11 @@ def attributes_dict_from_biosamples_id(sample_id):
     ]
 
     for characteristic in characteristics:
-        attributes_dict[characteristic] = sample.characteristics[characteristic][0].text
+        biosamples_data = sample.characteristics.get(characteristic, None)
+        if biosamples_data:
+            attributes_dict[characteristic] = sample.characteristics[characteristic][0].text
+        else:
+            attributes_dict[characteristic] = None
 
     return attributes_dict
 
@@ -71,12 +75,12 @@ def main(input_dirpath):
         attributes_file = attributes_filename_template.format(**identifier_dict)
         with open(input_dirpath/attributes_file) as fh:
             attributes = json.load(fh)
-        attributes['Files'] = fpath.name
+        attributes['Files'] = fpath
         all_entries.append(attributes)
 
     df = pd.DataFrame(all_entries)
     df.set_index(['Files'], inplace=True)
-    print(df.to_csv())
+    print(df.to_csv(sep="\t"), end="")
 
 
 if __name__ == "__main__":

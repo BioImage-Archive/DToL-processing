@@ -3,6 +3,30 @@ Darwin Tree of Life sample images
 
 This repository contains code and notes related to hosting sample-associated images for the Darwin Tree of Life, and wider biodiversity projects.
 
+Process
+-------
+
+1. Populate individual GAL collections (?). NHM at least.
+2. Extract from these images, so that these are named by biosamples ID.
+3. Use this to construct a new submission.
+
+After 2., we have a directory like this:
+
+    SAMEA111458765_1.jpg
+    SAMEA111458765_2.jpg
+    SAMEA111458765_3.jpg
+    SAMEA111458765_4.jpg
+    SAMEA111458769_1.jpg
+    SAMEA111458769_2.jpg
+
+Code
+----
+
+TODO
+----
+
+Fix ordering of multiple samples for a single thing.
+
 Notes
 -----
 
@@ -23,8 +47,22 @@ organism
 organism part
 sample collection device or method
 
+Warning: Not all BioSamples records have all of these fields (e.g. see SAMEA14448162)
 
 Principles
 ----------
 
 Pull everything from Biosamples record?
+
+Comments/queries
+----------------
+
+What about:
+
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714 (2).JPG NHMUK014425714_1.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714 (3).JPG NHMUK014425714_2.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714.JPG NHMUK014425714_3.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714_dorsal.JPG NHMUK014425714_4.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714_lateral.JPG NHMUK014425714_5.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714_ventral.JPG NHMUK014425714_6.jpg
+cp C9K02U9Z and C9X0CNI7 - Imported to EMu/014425714_ventral_2.JPG NHMUK014425714_7.jpg

@@ -79,7 +79,7 @@ def main(copo_output_json_fpath, output_dirpath):
 
     by_biosamples_id = get_file_uris_by_biosamples_id(file_list, nhm_to_biosample_id)
 
-    records = list(by_biosamples_id.items())[:12]
+    records = list(by_biosamples_id.items())
 
     output_dirpath = Path(output_dirpath)
     output_dirpath.mkdir(exist_ok=True)

@@ -186,7 +186,7 @@ def flist_from_flist_fname(accession_id: str, flist_fname: str):
     return fl
 
 
-def file_uri(accession_id: str, file: File):
+def generate_file_uri(accession_id: str, file: File):
 
     return FILE_URI_TEMPLATE.format(
         accession_id=accession_id,
