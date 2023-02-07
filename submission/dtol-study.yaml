@@ -1,0 +1,18 @@
+title: Darwin Tree of Life Sample Associated Images
+description: Images accompanying samples collected for the Darwin Tree of Life (DToL) projects. These are aggregated from the GALs involved in the project, and structured for access by Biosamples identifier.
+private_until_date: 2023-02-01
+rembi_version: '1.5'
+keywords:
+  - Darwin Tree of Life
+  - DToL
+  - Biodiversity
+authors:
+  - first_name: Inez
+    last_name: Januszczak
+    affiliation:
+      name: Natural History Museum
+links:
+  - link_url: https://www.darwintreeoflife.org/
+    link_type: Project
+    link_description: Project web page
+acknowledgements: These images were captured by photographers from the GALs.

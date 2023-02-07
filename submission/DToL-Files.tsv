@@ -1,0 +1,414 @@
+Files	BioSamples accession ID	NCBI taxonomy ID	organism	geographic location (latitude)	geographic location (longitude)	geographic location (region and locality)	habitat	sample collection device or method
+dtol_nhm_structured/SAMEA111457943_2.jpg	SAMEA111457943	1126404	Andrena nitida	51.5	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458377_1.jpg	SAMEA111458377	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458780_2.jpg	SAMEA111458780	1100963	Cydia splendana	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA111458295_3.jpg	SAMEA111458295	680436	Kleidocerys resedae	51.49	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448162_2.jpg	SAMEA14448162	336596	Neriene montana	54.22	-2.16	England|Yorkshire	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458808_1.jpg	SAMEA111458808	1101017	Metalampra italica	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458766_1.jpg	SAMEA111458766	1996563	Lysibia nanus	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458799_3.jpg	SAMEA111458799	2890759	Tycherus bellicornis	60.78	-0.83	Scotland|Haroldswick	NOT COLLECTED	Sweep net
+dtol_nhm_structured/SAMEA111458618_2.jpg	SAMEA111458618	1869911	Eupithecia phoeniceata	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458764_2.jpg	SAMEA111458764	988043	Xestia ashworthii	52.67	-3.96	Wales|Llanfihangel-y-Pennant	NOT COLLECTED	At light
+dtol_nhm_structured/SAMEA111458618_3.jpg	SAMEA111458618	1869911	Eupithecia phoeniceata	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458799_2.jpg	SAMEA111458799	2890759	Tycherus bellicornis	60.78	-0.83	Scotland|Haroldswick	NOT COLLECTED	Sweep net
+dtol_nhm_structured/SAMEA111458236_1.jpg	SAMEA111458236	662491	Promethes sulcator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458273_1.jpg	SAMEA111458273	307131	Ceutorhynchus obstrictus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457861_1.jpg	SAMEA111457861	2776046	Itoplectis maculator	51.48	-0.19	England|West Brompton Cemetery	NOT COLLECTED	Beating
+dtol_nhm_structured/SAMEA111458627_1.jpg	SAMEA111458627	1100908	Anania crocealis	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458295_2.jpg	SAMEA111458295	680436	Kleidocerys resedae	51.49	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457943_3.jpg	SAMEA111457943	1126404	Andrena nitida	51.5	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458782_1.jpg	SAMEA111458782	347754	Oegoconia quadripuncta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111457941_1.jpg	SAMEA111457941	1178097	Epermenia chaerophyllella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448534_1.jpg	SAMEA14448534	65311	Diplazon laetatorius	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448534_3.jpg	SAMEA14448534	65311	Diplazon laetatorius	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111457941_3.jpg	SAMEA111457941	1178097	Epermenia chaerophyllella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457943_1.jpg	SAMEA111457943	1126404	Andrena nitida	51.5	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458780_1.jpg	SAMEA111458780	1100963	Cydia splendana	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA111458377_2.jpg	SAMEA111458377	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448162_1.jpg	SAMEA14448162	336596	Neriene montana	54.22	-2.16	England|Yorkshire	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111457861_3.jpg	SAMEA111457861	2776046	Itoplectis maculator	51.48	-0.19	England|West Brompton Cemetery	NOT COLLECTED	Beating
+dtol_nhm_structured/SAMEA111458273_3.jpg	SAMEA111458273	307131	Ceutorhynchus obstrictus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458808_2.jpg	SAMEA111458808	1101017	Metalampra italica	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458236_3.jpg	SAMEA111458236	662491	Promethes sulcator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458766_2.jpg	SAMEA111458766	1996563	Lysibia nanus	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458618_1.jpg	SAMEA111458618	1869911	Eupithecia phoeniceata	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458764_1.jpg	SAMEA111458764	988043	Xestia ashworthii	52.67	-3.96	Wales|Llanfihangel-y-Pennant	NOT COLLECTED	At light
+dtol_nhm_structured/SAMEA111458799_1.jpg	SAMEA111458799	2890759	Tycherus bellicornis	60.78	-0.83	Scotland|Haroldswick	NOT COLLECTED	Sweep net
+dtol_nhm_structured/SAMEA111458808_3.jpg	SAMEA111458808	1101017	Metalampra italica	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458273_2.jpg	SAMEA111458273	307131	Ceutorhynchus obstrictus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458236_2.jpg	SAMEA111458236	662491	Promethes sulcator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111457861_2.jpg	SAMEA111457861	2776046	Itoplectis maculator	51.48	-0.19	England|West Brompton Cemetery	NOT COLLECTED	Beating
+dtol_nhm_structured/SAMEA111458295_1.jpg	SAMEA111458295	680436	Kleidocerys resedae	51.49	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458627_2.jpg	SAMEA111458627	1100908	Anania crocealis	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458377_3.jpg	SAMEA111458377	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458782_2.jpg	SAMEA111458782	347754	Oegoconia quadripuncta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111457941_2.jpg	SAMEA111457941	1178097	Epermenia chaerophyllella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448534_2.jpg	SAMEA14448534	65311	Diplazon laetatorius	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458277_2.jpg	SAMEA111458277	201759	Anthonomus rubi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458251_1.jpg	SAMEA111458251	1667461	Aclastus solutus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458815_2.jpg	SAMEA111458815	2026711	Tersilochus obscurator	51.34	0.91	England|South Swale	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458371_1.jpg	SAMEA111458371	1553234	Cryptocephalus fulvus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458786_2.jpg	SAMEA111458786	1150058	Coleophora lineolea	51.19	0.29	England|Tonbridge	NOT COLLECTED	LED light
+dtol_nhm_structured/SAMEA111458357_2.jpg	SAMEA111458357	2979190	Orthocentrus castellanus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448588_2.jpg	SAMEA14448588	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448468_2.jpg	SAMEA14448468	2922068	Gastracanthus pulcherrimus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458373_3.jpg	SAMEA111458373	2153186	Bolothrips dentipes	51.46	-0.92	England|Reading|Oracle Lakes	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458373_2.jpg	SAMEA111458373	2153186	Bolothrips dentipes	51.46	-0.92	England|Reading|Oracle Lakes	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458799_4.jpg	SAMEA111458799	2890759	Tycherus bellicornis	60.78	-0.83	Scotland|Haroldswick	NOT COLLECTED	Sweep net
+dtol_nhm_structured/SAMEA111458779_1.jpg	SAMEA111458779	2829445	Myopa tessellatipennis	50.97	-2.68	England|Orchard House	Rural Garden	Aerial Net
+dtol_nhm_structured/SAMEA111458149_1.jpg	SAMEA111458149	878186	Oxytelus laqueatus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458293_2.jpg	SAMEA111458293	934844	Eupithecia centaureata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458815_3.jpg	SAMEA111458815	2026711	Tersilochus obscurator	51.34	0.91	England|South Swale	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458295_4.jpg	SAMEA111458295	680436	Kleidocerys resedae	51.49	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458288_1.jpg	SAMEA111458288	2979192	Stilbops ruficornis	51.24	-0.26	England|Buckland	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457867_1.jpg	SAMEA111457867	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458277_3.jpg	SAMEA111458277	201759	Anthonomus rubi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448591_2.jpg	SAMEA14448591	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458251_2.jpg	SAMEA111458251	1667461	Aclastus solutus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458277_1.jpg	SAMEA111458277	201759	Anthonomus rubi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457867_3.jpg	SAMEA111457867	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458288_3.jpg	SAMEA111458288	2979192	Stilbops ruficornis	51.24	-0.26	England|Buckland	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458815_1.jpg	SAMEA111458815	2026711	Tersilochus obscurator	51.34	0.91	England|South Swale	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458786_1.jpg	SAMEA111458786	1150058	Coleophora lineolea	51.19	0.29	England|Tonbridge	NOT COLLECTED	LED light
+dtol_nhm_structured/SAMEA14448159_1.jpg	SAMEA14448159	273442	Cheilosia grossa	51.72	-1.3	England|Besselsleigh Wood	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458357_1.jpg	SAMEA111458357	2979190	Orthocentrus castellanus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448588_1.jpg	SAMEA14448588	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458808_4.jpg	SAMEA111458808	1101017	Metalampra italica	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458149_3.jpg	SAMEA111458149	878186	Oxytelus laqueatus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458371_2.jpg	SAMEA111458371	1553234	Cryptocephalus fulvus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458779_3.jpg	SAMEA111458779	2829445	Myopa tessellatipennis	50.97	-2.68	England|Orchard House	Rural Garden	Aerial Net
+dtol_nhm_structured/SAMEA111458623_1.jpg	SAMEA111458623	1002954	Udea ferrugalis	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448468_1.jpg	SAMEA14448468	2922068	Gastracanthus pulcherrimus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458373_1.jpg	SAMEA111458373	2153186	Bolothrips dentipes	51.46	-0.92	England|Reading|Oracle Lakes	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458779_2.jpg	SAMEA111458779	2829445	Myopa tessellatipennis	50.97	-2.68	England|Orchard House	Rural Garden	Aerial Net
+dtol_nhm_structured/SAMEA14448514_1.jpg	SAMEA14448514	662494	Sussaba pulchella	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458371_3.jpg	SAMEA111458371	1553234	Cryptocephalus fulvus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458149_2.jpg	SAMEA111458149	878186	Oxytelus laqueatus	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	sweeping
+dtol_nhm_structured/SAMEA111458293_1.jpg	SAMEA111458293	934844	Eupithecia centaureata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111457867_2.jpg	SAMEA111457867	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458288_2.jpg	SAMEA111458288	2979192	Stilbops ruficornis	51.24	-0.26	England|Buckland	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458251_3.jpg	SAMEA111458251	1667461	Aclastus solutus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448591_1.jpg	SAMEA14448591	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111457862_1.jpg	SAMEA111457862	2881124	Tipula confusa	51.89	-0.38	England|Hollybush Road	Garden	Aerial Net
+dtol_nhm_structured/SAMEA111458619_1.jpg	SAMEA111458619	1372312	Crocidosema plebejana	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458256_2.jpg	SAMEA111458256	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458270_1.jpg	SAMEA111458270	397350	Barypeithes pellucidus	51.47	-0.18	England|Parsons Green|Fulmead Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448163_1.jpg	SAMEA14448163	1871973	Marpissa muscosa	51.78	-0.64	England|Wiggington	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111457860_3.jpg	SAMEA111457860	1594449	Euspilapteryx auroguttella	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458809_2.jpg	SAMEA111458809	1384715	Abia aenea	51.51	-0.03	England|London|Tower Hamlets	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458767_2.jpg	SAMEA111458767	753149	Aglossa pinguinalis	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111457959_2.jpg	SAMEA111457959	1588223	Malthinus seriepunctatus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458812_1.jpg	SAMEA111458812	495357	Ophion minutus	51.5	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458781_1.jpg	SAMEA111458781	1108570	Synanthedon myopaeformis	51.19	0.27	England|Tonbridge	NOT COLLECTED	Baited Trap
+dtol_nhm_structured/SAMEA111458376_2.jpg	SAMEA111458376	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457940_3.jpg	SAMEA111457940	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458624_1.jpg	SAMEA111458624	2979187	Hoplismenus bidentatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458783_2.jpg	SAMEA111458783	1280429	Bryotropha terrella	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA111457940_2.jpg	SAMEA111457940	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458294_1.jpg	SAMEA111458294	2484562	Rhagio scolopaceus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458376_3.jpg	SAMEA111458376	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458269_1.jpg	SAMEA111458269	169498	Coelopa frigida	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111457959_3.jpg	SAMEA111457959	1588223	Malthinus seriepunctatus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111457860_2.jpg	SAMEA111457860	1594449	Euspilapteryx auroguttella	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458765_1.jpg	SAMEA111458765	347710	Batrachedra praeangusta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458256_3.jpg	SAMEA111458256	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458349_1.jpg	SAMEA111458349	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458349_3.jpg	SAMEA111458349	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457862_2.jpg	SAMEA111457862	2881124	Tipula confusa	51.89	-0.38	England|Hollybush Road	Garden	Aerial Net
+dtol_nhm_structured/SAMEA111458270_2.jpg	SAMEA111458270	397350	Barypeithes pellucidus	51.47	-0.18	England|Parsons Green|Fulmead Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458256_1.jpg	SAMEA111458256	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458765_3.jpg	SAMEA111458765	347710	Batrachedra praeangusta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA14448163_2.jpg	SAMEA14448163	1871973	Marpissa muscosa	51.78	-0.64	England|Wiggington	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458809_1.jpg	SAMEA111458809	1384715	Abia aenea	51.51	-0.03	England|London|Tower Hamlets	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457959_1.jpg	SAMEA111457959	1588223	Malthinus seriepunctatus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458767_1.jpg	SAMEA111458767	753149	Aglossa pinguinalis	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458812_2.jpg	SAMEA111458812	495357	Ophion minutus	51.5	-0.18	England|Natural History Museum Wildlife Garden	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458269_3.jpg	SAMEA111458269	169498	Coelopa frigida	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458376_1.jpg	SAMEA111458376	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458781_2.jpg	SAMEA111458781	1108570	Synanthedon myopaeformis	51.19	0.27	England|Tonbridge	NOT COLLECTED	Baited Trap
+dtol_nhm_structured/SAMEA111458294_3.jpg	SAMEA111458294	2484562	Rhagio scolopaceus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458624_2.jpg	SAMEA111458624	2979187	Hoplismenus bidentatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458624_3.jpg	SAMEA111458624	2979187	Hoplismenus bidentatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458783_1.jpg	SAMEA111458783	1280429	Bryotropha terrella	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA14448535_1.jpg	SAMEA14448535	662491	Promethes sulcator	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111457940_1.jpg	SAMEA111457940	753195	Lyonetia clerkella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458294_2.jpg	SAMEA111458294	2484562	Rhagio scolopaceus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458781_3.jpg	SAMEA111458781	1108570	Synanthedon myopaeformis	51.19	0.27	England|Tonbridge	NOT COLLECTED	Baited Trap
+dtol_nhm_structured/SAMEA111458269_2.jpg	SAMEA111458269	169498	Coelopa frigida	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111457860_1.jpg	SAMEA111457860	1594449	Euspilapteryx auroguttella	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458765_2.jpg	SAMEA111458765	347710	Batrachedra praeangusta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458270_3.jpg	SAMEA111458270	397350	Barypeithes pellucidus	51.47	-0.18	England|Parsons Green|Fulmead Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457862_3.jpg	SAMEA111457862	2881124	Tipula confusa	51.89	-0.38	England|Hollybush Road	Garden	Aerial Net
+dtol_nhm_structured/SAMEA111458349_2.jpg	SAMEA111458349	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458641_2.jpg	SAMEA111458641	495356	Ophion costatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458290_2.jpg	SAMEA111458290	1587272	Epitrix atropae	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458249_3.jpg	SAMEA111458249	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock Wood	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448158_1.jpg	SAMEA14448158	1587206	Cryptocephalus primarius	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448589_1.jpg	SAMEA14448589	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458356_1.jpg	SAMEA111458356	105251	Taphrorychus bicolor	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458370_2.jpg	SAMEA111458370	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458274_3.jpg	SAMEA111458274	75506	Chrysolina americana	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458639_2.jpg	SAMEA111458639	2776077	Paraperithous gnathaulax	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458369_3.jpg	SAMEA111458369	347362	Hermaeophaga mercurialis	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458250_2.jpg	SAMEA111458250	2776060	Tromatobia lineatoria	50.96	-0.51	England|Pulborough|Lyntons Road	NOT COLLECTED	Hand collected
+dtol_nhm_structured/SAMEA111458233_1.jpg	SAMEA111458233	494262	Dreisbachia pictifrons	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458250_3.jpg	SAMEA111458250	2776060	Tromatobia lineatoria	50.96	-0.51	England|Pulborough|Lyntons Road	NOT COLLECTED	Hand collected
+dtol_nhm_structured/SAMEA14448590_1.jpg	SAMEA14448590	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458369_2.jpg	SAMEA111458369	347362	Hermaeophaga mercurialis	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458274_2.jpg	SAMEA111458274	75506	Chrysolina americana	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458370_3.jpg	SAMEA111458370	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458249_2.jpg	SAMEA111458249	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock Wood	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457860_4.jpg	SAMEA111457860	1594449	Euspilapteryx auroguttella	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458785_2.jpg	SAMEA111458785	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458290_3.jpg	SAMEA111458290	1587272	Epitrix atropae	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458641_3.jpg	SAMEA111458641	495356	Ophion costatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458778_2.jpg	SAMEA111458778	1594312	Sciota angustella	51.49	-0.17	England|Natural History Museum Wildlife Garden	NOT COLLECTED	0
+dtol_nhm_structured/SAMEA111458641_1.jpg	SAMEA111458641	495356	Ophion costatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458290_1.jpg	SAMEA111458290	1587272	Epitrix atropae	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458370_1.jpg	SAMEA111458370	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448158_2.jpg	SAMEA14448158	1587206	Cryptocephalus primarius	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448589_2.jpg	SAMEA14448589	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458356_2.jpg	SAMEA111458356	105251	Taphrorychus bicolor	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448592_1.jpg	SAMEA14448592	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458639_1.jpg	SAMEA111458639	2776077	Paraperithous gnathaulax	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458233_2.jpg	SAMEA111458233	494262	Dreisbachia pictifrons	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458250_1.jpg	SAMEA111458250	2776060	Tromatobia lineatoria	50.96	-0.51	England|Pulborough|Lyntons Road	NOT COLLECTED	Hand collected
+dtol_nhm_structured/SAMEA111458369_1.jpg	SAMEA111458369	347362	Hermaeophaga mercurialis	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448590_2.jpg	SAMEA14448590	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458274_1.jpg	SAMEA111458274	75506	Chrysolina americana	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458356_3.jpg	SAMEA111458356	105251	Taphrorychus bicolor	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448158_3.jpg	SAMEA14448158	1587206	Cryptocephalus primarius	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458620_1.jpg	SAMEA111458620	987869	Agrochola litura	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458249_1.jpg	SAMEA111458249	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock Wood	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458785_1.jpg	SAMEA111458785	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458765_4.jpg	SAMEA111458765	347710	Batrachedra praeangusta	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458349_4.jpg	SAMEA111458349	683962	Cosmopterix pulchrimella	51.5	-0.18	England|NHM Wildlife Garden	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458778_1.jpg	SAMEA111458778	1594312	Sciota angustella	51.49	-0.17	England|Natural History Museum Wildlife Garden	NOT COLLECTED	0
+dtol_nhm_structured/SAMEA111458776_3.jpg	SAMEA111458776	987865	Acronicta psi	52.07	0.18	England|Hinxton|Wellcome Genome Campus	NOT COLLECTED	At light
+dtol_nhm_structured/SAMEA111458263_2.jpg	SAMEA111458263	2979194	Apaeleticus inimicus	53.52	-3.06	England|Hightown	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458226_2.jpg	SAMEA111458226	1918294	Prosena siberita	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448587_1.jpg	SAMEA14448587	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458774_1.jpg	SAMEA111458774	1858070	Scrobipalpa costella	51.49	-0.17	England|Natural History Museum Wildlife Garden	NOT COLLECTED	0
+dtol_nhm_structured/SAMEA111458383_2.jpg	SAMEA111458383	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458801_2.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458613_3.jpg	SAMEA111458613	2922079	Netelia melanura	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458792_2.jpg	SAMEA111458792	1209621	Choreutis nemorana	51.51	-0.17	England|Middlesex|Kensington Gardens	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458611_1.jpg	SAMEA111458611	987929	Eilema caniola	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458803_1.jpg	SAMEA111458803	2869172	Platymischus dilatatus	60.73	-0.95	Scotland|Westwick beach	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448782_1.jpg	SAMEA14448782	2922079	Netelia melanura	50.3	-3.87	England|Bigbury	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458287_2.jpg	SAMEA111458287	347477	Tytthaspis sedecimpunctata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458613_2.jpg	SAMEA111458613	2922079	Netelia melanura	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458635_1.jpg	SAMEA111458635	2886523	Netelia tarsata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458801_3.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458261_1.jpg	SAMEA111458261	878073	Paradromius linearis	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	suction sampler
+dtol_nhm_structured/SAMEA111458383_3.jpg	SAMEA111458383	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448465_2.jpg	SAMEA14448465	52734	Dilophus febrilis	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458263_3.jpg	SAMEA111458263	2979194	Apaeleticus inimicus	53.52	-3.06	England|Hightown	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458226_3.jpg	SAMEA111458226	1918294	Prosena siberita	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458381_1.jpg	SAMEA111458381	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458776_2.jpg	SAMEA111458776	987865	Acronicta psi	52.07	0.18	England|Hinxton|Wellcome Genome Campus	NOT COLLECTED	At light
+dtol_nhm_structured/SAMEA111458381_3.jpg	SAMEA111458381	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458617_4.jpg	SAMEA111458617	494743	Netelia virgata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458226_1.jpg	SAMEA111458226	1918294	Prosena siberita	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458263_1.jpg	SAMEA111458263	2979194	Apaeleticus inimicus	53.52	-3.06	England|Hightown	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448587_2.jpg	SAMEA14448587	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458383_1.jpg	SAMEA111458383	294675	Longitarsus exsoletus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458774_2.jpg	SAMEA111458774	1858070	Scrobipalpa costella	51.49	-0.17	England|Natural History Museum Wildlife Garden	NOT COLLECTED	0
+dtol_nhm_structured/SAMEA111458261_3.jpg	SAMEA111458261	878073	Paradromius linearis	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	suction sampler
+dtol_nhm_structured/SAMEA111458801_1.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458635_3.jpg	SAMEA111458635	2886523	Netelia tarsata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448782_3.jpg	SAMEA14448782	2922079	Netelia melanura	50.3	-3.87	England|Bigbury	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458792_1.jpg	SAMEA111458792	1209621	Choreutis nemorana	51.51	-0.17	England|Middlesex|Kensington Gardens	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458803_3.jpg	SAMEA111458803	2869172	Platymischus dilatatus	60.73	-0.95	Scotland|Westwick beach	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458611_2.jpg	SAMEA111458611	987929	Eilema caniola	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458803_2.jpg	SAMEA111458803	2869172	Platymischus dilatatus	60.73	-0.95	Scotland|Westwick beach	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448782_2.jpg	SAMEA14448782	2922079	Netelia melanura	50.3	-3.87	England|Bigbury	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458635_2.jpg	SAMEA111458635	2886523	Netelia tarsata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458613_1.jpg	SAMEA111458613	2922079	Netelia melanura	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458287_1.jpg	SAMEA111458287	347477	Tytthaspis sedecimpunctata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458261_2.jpg	SAMEA111458261	878073	Paradromius linearis	51.5	-1.1	England|Hartslock Nature Reserve	NOT COLLECTED	suction sampler
+dtol_nhm_structured/SAMEA14448587_3.jpg	SAMEA14448587	2884235	Protonemura montana	54.48	-2.88	England|upstream of Hayeswater Resevoir	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448465_1.jpg	SAMEA14448465	52734	Dilophus febrilis	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458776_1.jpg	SAMEA111458776	987865	Acronicta psi	52.07	0.18	England|Hinxton|Wellcome Genome Campus	NOT COLLECTED	At light
+dtol_nhm_structured/SAMEA111458617_5.jpg	SAMEA111458617	494743	Netelia virgata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458381_2.jpg	SAMEA111458381	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448786_2.jpg	SAMEA14448786	2884234	Ophion ellenae	53.38	-3.23	England|Hilbre Island	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458617_1.jpg	SAMEA111458617	494743	Netelia virgata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458807_2.jpg	SAMEA111458807	1104519	Parachronistis albiceps	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111457934_1.jpg	SAMEA111457934	1101014	Leucoptera laburnella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448190_1.jpg	SAMEA14448190	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA111458769_2.jpg	SAMEA111458769	988008	Oligia latruncula	51.19	0.26	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458794_2.jpg	SAMEA111458794	913189	Elachista canapennella	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458801_4.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458772_1.jpg	SAMEA111458772	1391526	Enarmonia formosana	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458265_2.jpg	SAMEA111458265	50562	Petrobius brevistylis	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA14448189_1.jpg	SAMEA14448189	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA111458770_2.jpg	SAMEA111458770	422171	Aleiodes testaceus	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458265_3.jpg	SAMEA111458265	50562	Petrobius brevistylis	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA14448744_1.jpg	SAMEA14448744	296003	Lagria hirta	51.47	-0.18	England|Fulmead Street, Parsons Green	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458267_1.jpg	SAMEA111458267	878062	Longitarsus anchusae	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458801_5.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458615_2.jpg	SAMEA111458615	987427	Mythimna lalbum	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448478_1.jpg	SAMEA14448478	2922068	Gastracanthus pulcherrimus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448784_1.jpg	SAMEA14448784	2884229	Lissonota fundator	51.16	1.0	England|Hastingleigh	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448786_3.jpg	SAMEA14448786	2884234	Ophion ellenae	53.38	-3.23	England|Hilbre Island	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458361_2.jpg	SAMEA111458361	1218166	Therophilus tumidulus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458796_1.jpg	SAMEA111458796	1869771	Cydia amplana	51.19	0.29	England|Tonbridge	NOT COLLECTED	Actinic light
+dtol_nhm_structured/SAMEA111458347_1.jpg	SAMEA111458347	346699	Anaspis regimbarti	51.47	-0.19	England|London|Tynemouth Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448192_2.jpg	SAMEA14448192	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA14448786_1.jpg	SAMEA14448786	2884234	Ophion ellenae	53.38	-3.23	England|Hilbre Island	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458347_3.jpg	SAMEA111458347	346699	Anaspis regimbarti	51.47	-0.19	England|London|Tynemouth Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458617_2.jpg	SAMEA111458617	494743	Netelia virgata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458807_1.jpg	SAMEA111458807	1104519	Parachronistis albiceps	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458769_1.jpg	SAMEA111458769	988008	Oligia latruncula	51.19	0.26	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111457934_2.jpg	SAMEA111457934	1101014	Leucoptera laburnella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448190_2.jpg	SAMEA14448190	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA111458794_1.jpg	SAMEA111458794	913189	Elachista canapennella	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458801_7.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458267_3.jpg	SAMEA111458267	878062	Longitarsus anchusae	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458772_2.jpg	SAMEA111458772	1391526	Enarmonia formosana	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458265_1.jpg	SAMEA111458265	50562	Petrobius brevistylis	45.55	-79.22	Isle of Man|Scarlett Point	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA14448746_1.jpg	SAMEA14448746	419956	Calvia quattuordecimguttata	51.47	-0.18	England|Nearest Named Place: Chelsea Harbour	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458770_1.jpg	SAMEA111458770	422171	Aleiodes testaceus	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA14448189_2.jpg	SAMEA14448189	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA111458803_4.jpg	SAMEA111458803	2869172	Platymischus dilatatus	60.73	-0.95	Scotland|Westwick beach	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448744_2.jpg	SAMEA14448744	296003	Lagria hirta	51.47	-0.18	England|Fulmead Street, Parsons Green	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458635_4.jpg	SAMEA111458635	2886523	Netelia tarsata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458267_2.jpg	SAMEA111458267	878062	Longitarsus anchusae	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458628_1.jpg	SAMEA111458628	1870252	Polymixis lichenea	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458801_6.jpg	SAMEA111458801	7454	Vespula vulgaris	51.19	0.29	England|Tonbridge	garden	By hand
+dtol_nhm_structured/SAMEA111458615_1.jpg	SAMEA111458615	987427	Mythimna lalbum	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448784_2.jpg	SAMEA14448784	2884229	Lissonota fundator	51.16	1.0	England|Hastingleigh	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111457934_3.jpg	SAMEA111457934	1101014	Leucoptera laburnella	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458617_3.jpg	SAMEA111458617	494743	Netelia virgata	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458796_2.jpg	SAMEA111458796	1869771	Cydia amplana	51.19	0.29	England|Tonbridge	NOT COLLECTED	Actinic light
+dtol_nhm_structured/SAMEA111458347_2.jpg	SAMEA111458347	346699	Anaspis regimbarti	51.47	-0.19	England|London|Tynemouth Street	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458361_1.jpg	SAMEA111458361	1218166	Therophilus tumidulus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448192_1.jpg	SAMEA14448192	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	Soil Sampling
+dtol_nhm_structured/SAMEA111458279_2.jpg	SAMEA111458279	662494	Sussaba pulchella	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458610_2.jpg	SAMEA111458610	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448781_1.jpg	SAMEA14448781	494138	Clistopyga incitator	50.28	-3.76	England|Bowcombe Creek	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111457933_2.jpg	SAMEA111457933	1594371	Mompha subbistrigella	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458218_3.jpg	SAMEA111458218	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458773_4.jpg	SAMEA111458773	1108569	Synanthedon andrenaeformis	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	pheromone lure
+dtol_nhm_structured/SAMEA111458793_1.jpg	SAMEA111458793	1594361	Lathronympha strigana	51.19	0.29	England|Tonbridge	garden	Light trap
+dtol_nhm_structured/SAMEA14448157_2.jpg	SAMEA14448157	1545310	Enoplops scapha	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458382_1.jpg	SAMEA111458382	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458775_2.jpg	SAMEA111458775	988008	Oligia latruncula	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458260_3.jpg	SAMEA111458260	1940097	Ocys tachysoides	51.69	-3.23	Wales|Parc Coetir Bargod	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458362_4.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448466_2.jpg	SAMEA14448466	1888416	Endromopoda detrita	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458126_1.jpg	SAMEA111458126	1918144	Phasia obesa	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458262_1.jpg	SAMEA111458262	1634459	Plectiscus impurator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458201_2.jpg	SAMEA111458201	558720	Propylea quattuordecimpunctata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458797_4.jpg	SAMEA111458797	330862	Tiphia femorata	51.25	-0.47	England|Hatchlands Park	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458777_1.jpg	SAMEA111458777	1844523	Aleiodes leptofemur	51.19	0.26	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458804_4.jpg	SAMEA111458804	1667470	Apechthis compunctor	51.29	-0.39	England|Bookham Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458362_5.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458260_2.jpg	SAMEA111458260	1940097	Ocys tachysoides	51.69	-3.23	Wales|Parc Coetir Bargod	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458147_1.jpg	SAMEA111458147	131627	Crioceris asparagi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448157_3.jpg	SAMEA14448157	1545310	Enoplops scapha	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448783_2.jpg	SAMEA14448783	2881813	Cylloceria caligata	52.37	-2.41	England|Bell Coppice	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458612_1.jpg	SAMEA111458612	1045598	Dyspetes luteomarginatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458218_2.jpg	SAMEA111458218	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111457933_3.jpg	SAMEA111457933	1594371	Mompha subbistrigella	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458791_2.jpg	SAMEA111458791	689280	Eupithecia intricata	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458366_1.jpg	SAMEA111458366	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458610_3.jpg	SAMEA111458610	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458279_1.jpg	SAMEA111458279	662494	Sussaba pulchella	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458610_1.jpg	SAMEA111458610	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458366_3.jpg	SAMEA111458366	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111457933_1.jpg	SAMEA111457933	1594371	Mompha subbistrigella	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458612_3.jpg	SAMEA111458612	1045598	Dyspetes luteomarginatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458793_2.jpg	SAMEA111458793	1594361	Lathronympha strigana	51.19	0.29	England|Tonbridge	garden	Light trap
+dtol_nhm_structured/SAMEA111458147_3.jpg	SAMEA111458147	131627	Crioceris asparagi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448157_1.jpg	SAMEA14448157	1545310	Enoplops scapha	50.61	-1.95	England|Swanage Bay, England.	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458775_1.jpg	SAMEA111458775	988008	Oligia latruncula	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458382_2.jpg	SAMEA111458382	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458362_7.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448466_1.jpg	SAMEA14448466	1888416	Endromopoda detrita	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458259_4.jpg	SAMEA111458259	202047	Nanophyes marmoratus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458126_2.jpg	SAMEA111458126	1918144	Phasia obesa	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458777_3.jpg	SAMEA111458777	1844523	Aleiodes leptofemur	51.19	0.26	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458201_1.jpg	SAMEA111458201	558720	Propylea quattuordecimpunctata	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458262_2.jpg	SAMEA111458262	1634459	Plectiscus impurator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458262_3.jpg	SAMEA111458262	1634459	Plectiscus impurator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458777_2.jpg	SAMEA111458777	1844523	Aleiodes leptofemur	51.19	0.26	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458260_1.jpg	SAMEA111458260	1940097	Ocys tachysoides	51.69	-3.23	Wales|Parc Coetir Bargod	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458362_6.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458382_3.jpg	SAMEA111458382	2979196	Callitula bicolor	51.47	-0.91	England|Sonning	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458147_2.jpg	SAMEA111458147	131627	Crioceris asparagi	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448783_1.jpg	SAMEA14448783	2881813	Cylloceria caligata	52.37	-2.41	England|Bell Coppice	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458612_2.jpg	SAMEA111458612	1045598	Dyspetes luteomarginatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458218_1.jpg	SAMEA111458218	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458366_2.jpg	SAMEA111458366	1845050	Longitarsus pellucidus	51.51	-1.11	England|Hartslock NR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458791_1.jpg	SAMEA111458791	689280	Eupithecia intricata	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458087_3.jpg	SAMEA111458087	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458386_3.jpg	SAMEA111458386	2979186	Cyclogastrella simplex	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458610_4.jpg	SAMEA111458610	274346	Stenichneumon culpator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458379_1.jpg	SAMEA111458379	116121	Carcina quercana	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458266_3.jpg	SAMEA111458266	346847	Rhizophagus dispar	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458384_1.jpg	SAMEA111458384	1845063	Orchestes fagi	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448745_3.jpg	SAMEA14448745	202102	Otiorhynchus armadillo	51.47	-0.18	England|Nearest Named Place: Chelsea Harbour	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458773_2.jpg	SAMEA111458773	1108569	Synanthedon andrenaeformis	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	pheromone lure
+dtol_nhm_structured/SAMEA111458806_1.jpg	SAMEA111458806	1281420	Pyrausta despicata	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA111458768_1.jpg	SAMEA111458768	347754	Oegoconia quadripuncta	51.19	0.29	England|Tonbridge	garden	Light trap
+dtol_nhm_structured/SAMEA14448191_2.jpg	SAMEA14448191	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448785_3.jpg	SAMEA14448785	1323535	Conwentzia psociformis	51.19	0.29	England|Tonbridge	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458362_2.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458795_1.jpg	SAMEA111458795	1594237	Argyresthia retinella	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458259_1.jpg	SAMEA111458259	202047	Nanophyes marmoratus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458804_3.jpg	SAMEA111458804	1667470	Apechthis compunctor	51.29	-0.39	England|Bookham Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448521_3.jpg	SAMEA14448521	495374	Oxytorus armatus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458797_3.jpg	SAMEA111458797	330862	Tiphia femorata	51.25	-0.47	England|Hatchlands Park	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA111458630_1.jpg	SAMEA111458630	1870252	Polymixis lichenea	51.27	1.38	England|Sandwich Bay|Restharrow Dunes NNR	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458797_2.jpg	SAMEA111458797	330862	Tiphia femorata	51.25	-0.47	England|Hatchlands Park	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448193_1.jpg	SAMEA14448193	126940	Lamyctes emarginatus	50.57	-3.92	England|Nearest Named Place: Dartmoor National Park	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448521_2.jpg	SAMEA14448521	495374	Oxytorus armatus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458804_2.jpg	SAMEA111458804	1667470	Apechthis compunctor	51.29	-0.39	England|Bookham Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458632_2.jpg	SAMEA111458632	2979191	Polytribax perspicillator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458614_1.jpg	SAMEA111458614	1045598	Dyspetes luteomarginatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458260_4.jpg	SAMEA111458260	1940097	Ocys tachysoides	51.69	-3.23	Wales|Parc Coetir Bargod	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458362_3.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448785_2.jpg	SAMEA14448785	1323535	Conwentzia psociformis	51.19	0.29	England|Tonbridge	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458773_3.jpg	SAMEA111458773	1108569	Synanthedon andrenaeformis	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	pheromone lure
+dtol_nhm_structured/SAMEA14448745_2.jpg	SAMEA14448745	202102	Otiorhynchus armadillo	51.47	-0.18	England|Nearest Named Place: Chelsea Harbour	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458205_1.jpg	SAMEA111458205	767470	Pterostichus madidus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458266_2.jpg	SAMEA111458266	346847	Rhizophagus dispar	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458629_1.jpg	SAMEA111458629	1337163	Aporophyla lueneburgensis	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458771_1.jpg	SAMEA111458771	2979185	Argyresthia cupressella	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458386_2.jpg	SAMEA111458386	2979186	Cyclogastrella simplex	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA14448683_1.jpg	SAMEA14448683	931499	Solva marginata	51.48	-0.19	England|Nearest Named Place: West Brompton Cemetery	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458087_2.jpg	SAMEA111458087	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458771_3.jpg	SAMEA111458771	2979185	Argyresthia cupressella	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458379_2.jpg	SAMEA111458379	116121	Carcina quercana	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458205_3.jpg	SAMEA111458205	767470	Pterostichus madidus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458773_1.jpg	SAMEA111458773	1108569	Synanthedon andrenaeformis	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	pheromone lure
+dtol_nhm_structured/SAMEA111458384_2.jpg	SAMEA111458384	1845063	Orchestes fagi	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458806_2.jpg	SAMEA111458806	1281420	Pyrausta despicata	51.18	0.29	England|Tonbridge	woodland edge	Actinic light
+dtol_nhm_structured/SAMEA14448191_1.jpg	SAMEA14448191	1569488	Lithobius microps	51.46	-0.24	England|London|Barnes Common	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111457970_1.jpg	SAMEA111457970	414950	Nicrophorus investigator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA111458768_2.jpg	SAMEA111458768	347754	Oegoconia quadripuncta	51.19	0.29	England|Tonbridge	garden	Light trap
+dtol_nhm_structured/SAMEA111458795_2.jpg	SAMEA111458795	1594237	Argyresthia retinella	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458362_1.jpg	SAMEA111458362	877789	Aspidapion radiolus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458259_2.jpg	SAMEA111458259	202047	Nanophyes marmoratus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458616_1.jpg	SAMEA111458616	987991	Mythimna vitellina	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458797_1.jpg	SAMEA111458797	330862	Tiphia femorata	51.25	-0.47	England|Hatchlands Park	NOT COLLECTED	By hand
+dtol_nhm_structured/SAMEA14448521_1.jpg	SAMEA14448521	495374	Oxytorus armatus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA14448193_2.jpg	SAMEA14448193	126940	Lamyctes emarginatus	50.57	-3.92	England|Nearest Named Place: Dartmoor National Park	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458259_3.jpg	SAMEA111458259	202047	Nanophyes marmoratus	51.41	-0.06	England|Penge|Winsford Gardens	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458804_1.jpg	SAMEA111458804	1667470	Apechthis compunctor	51.29	-0.39	England|Bookham Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458614_2.jpg	SAMEA111458614	1045598	Dyspetes luteomarginatus	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448479_1.jpg	SAMEA14448479	1097111	Charmon cruentatus	51.77	-1.31	England|Wytham Woods, Bert's Pheasant Pen	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458632_1.jpg	SAMEA111458632	2979191	Polytribax perspicillator	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
+dtol_nhm_structured/SAMEA14448785_1.jpg	SAMEA14448785	1323535	Conwentzia psociformis	51.19	0.29	England|Tonbridge	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458795_3.jpg	SAMEA111458795	1594237	Argyresthia retinella	51.19	0.29	England|Tonbridge	garden	Actinic light
+dtol_nhm_structured/SAMEA111458384_3.jpg	SAMEA111458384	1845063	Orchestes fagi	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA14448745_1.jpg	SAMEA14448745	202102	Otiorhynchus armadillo	51.47	-0.18	England|Nearest Named Place: Chelsea Harbour	NOT COLLECTED	
+dtol_nhm_structured/SAMEA111458266_1.jpg	SAMEA111458266	346847	Rhizophagus dispar	51.67	-0.79	England|Naphill Common	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458205_2.jpg	SAMEA111458205	767470	Pterostichus madidus	51.5	-0.24	England|Ravenscourt Park	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458629_2.jpg	SAMEA111458629	1337163	Aporophyla lueneburgensis	51.27	1.37	England|Sandwich Bay Bird Observatory	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458379_3.jpg	SAMEA111458379	116121	Carcina quercana	51.63	-0.74	England|High Wycombe|Lucas Road	NOT COLLECTED	Hand Picked
+dtol_nhm_structured/SAMEA111458386_1.jpg	SAMEA111458386	2979186	Cyclogastrella simplex	54.14	-4.47	Isle of Man|Douglas Head	NOT COLLECTED	Hand picked
+dtol_nhm_structured/SAMEA111458771_2.jpg	SAMEA111458771	2979185	Argyresthia cupressella	51.19	0.27	England|Tonbridge	NOT COLLECTED	Light Trap
+dtol_nhm_structured/SAMEA111458087_1.jpg	SAMEA111458087	2922075	Rhorus exstirpatorius	51.77	-1.31	England|Wytham Woods	NOT COLLECTED	Aerial Net
