@@ -43,7 +43,7 @@ def attributes_dict_from_biosamples_id(sample_id):
 
 def fetch_attributes_if_not_existing(dirpath):
 
-    for fpath in dirpath.glob("*.jpg"):
+    for fpath in dirpath.glob("*.[jJ][pP][gG]"):
         basename = os.path.splitext(fpath.name)[0]
         biosamples_id, n = basename.split("_")
 
@@ -70,8 +70,10 @@ def main(input_dirpath):
     all_entries = []
     image_filename_template = "{biosamples_id}_{n}.jpg"
     attributes_filename_template = "{biosamples_id}.json"
-    for fpath in input_dirpath.glob("*.jpg"):
-        identifier_dict = parse.parse(image_filename_template, fpath.name).named
+    for fpath in input_dirpath.glob("*.[jJ][pP][gG]"):
+        fname = os.path.splitext(fpath.name)[0] + os.path.splitext(fpath.name)[1].lower()
+        identifier_dict = parse.parse(image_filename_template, fname).named
+        print(fpath)
         attributes_file = attributes_filename_template.format(**identifier_dict)
         with open(input_dirpath/attributes_file) as fh:
             attributes = json.load(fh)
