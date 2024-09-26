@@ -1,3 +1,13 @@
+COPO submissions (DToL, ERGA)
+=========================
+
+Download old filelist if a submission exists. Create new filelist (either just the new files or all files; can use the 
+one produced by ST download filelist button or simple ls command).
+Use python scripts/filelist_to_filelist_nojson.py <old_filelist> <new_filelist> > new_submission_filelist.tsv
+
+This script checks the files in the new_filelist, if they're new it gets relevant metadata from BioSamples and creates a 
+submission filelist including the files and metadata in the old_filelist.
+
 Darwin Tree of Life sample images
 =================================
 
