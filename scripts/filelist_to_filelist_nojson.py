@@ -60,11 +60,13 @@ def main(old_filelist, new_filelist):
                  attributes = attributes_dict_from_biosamples_id(biosamples_id)
                  attributes['Files'] = fpath.split('\n')[0]
                  new_entries.append(attributes)
+                
 
     df = pd.DataFrame(new_entries)
     df.set_index(['Files'], inplace=True)
     old_entries.set_index(['Files'], inplace=True)
-    df2 = pd.concat([old_entries,df])
+    #df2 = pd.concat([old_entries,df])
+    df2 = old_entries.combine_first(df)
     print(df2.to_csv(sep="\t"), end="")
 
 
