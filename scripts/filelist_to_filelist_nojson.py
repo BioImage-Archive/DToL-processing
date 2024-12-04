@@ -51,6 +51,8 @@ def main(old_filelist, new_filelist):
 
     with open(new_filelist) as f:
         for fpath in f:
+            if 'Files' in fpath:
+                continue
             ba = os.path.basename(fpath)
             basename = os.path.splitext(ba)[0]
             biosamples_id, n = basename.split("_")
